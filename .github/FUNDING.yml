@@ -1,1 +1,9 @@
-github: [Shpota]
+commits:
+  - date: 2023-11-01
+    count: 10
+  - date: 2023-11-02
+    count: 5
+
+repositories:
+  - name: "simulated-repo"
+    visibility: "public"
